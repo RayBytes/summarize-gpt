@@ -27,4 +27,6 @@ Please, make a pull request or a issue if you find something which can be improv
 sister projects to it to make this a (hopefully) cool thing.
 
 
+## Credits
 
+This project would not be possible without the greater 'ChatGPT breaking' community at large. Thanks to them this project exists, and much of the code is made with help and borrowed from people who I have talked to. If you would like to join, here is the discord invite: https://discord.gg/quMGJpN3Es
