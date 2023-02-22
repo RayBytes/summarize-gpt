@@ -6,6 +6,7 @@ It uses artificial intelligence in the form of OpenAI's GPT models to provide un
 ## Whats in the project? 
 
 - API through which you can generate summaries with ease
+- Great prompt to produce good results from the AI
 - Currently a demo inside to guide you on how to use the project
 
 ## How to start?
