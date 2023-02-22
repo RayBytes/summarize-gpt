@@ -1,7 +1,7 @@
 # summarize-gpt
 
 Summarize GPT is a project through which you can summarise pieces of text!
-It uses artificial intelligence in the form of OpenAI's GPT models to provide unqieu summaries, which are customisable.
+It uses artificial intelligence in the form of OpenAI's GPT models to provide unique summaries, which are customisable.
 
 ## Whats in the project? 
 
